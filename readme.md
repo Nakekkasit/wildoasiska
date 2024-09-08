@@ -2,4 +2,4 @@
 
 ### Full Stack Web Application with React: Styeld component, React Router, React Query, Context API, Supabase, React Hook Form.
 
-### 👉 Deployed App: [wildoasiska](wildoasiska.netlify.app)
+### 👉 Deployed App: [wildoasiska](https://wildoasiska.netlify.app/login)
